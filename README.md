@@ -24,4 +24,4 @@ This tool is intended for educational and authorized testing purposes only. Unau
 
 2.**Run the script:**
   ```bash
-  python PortScanner.py
+  python portscanner.py
