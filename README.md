@@ -1,2 +1,23 @@
 # PortScanner
-This is an advanced asynchronous port scanner written in Python using the asyncio module. The scanner is designed to efficiently identify open ports on target systems and gather information about the services running on those ports. It includes features such as service banner grabbing, timeout handling, logging, and concurrency.
+
+## Overview
+
+This is a simple and advanced port scanner written in Python. The scanner is designed to identify open ports on target systems and provide basic information about the services running on those ports.
+
+## Features
+
+- **Basic Port Scanning:** Identifies open ports on the target system.
+  
+- **Service Identification:** Attempts to identify the service running on an open port.
+
+- **User-Friendly:** Provides a simple command-line interface for ease of use.
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Saurabhm2/PortScanner.git
+   cd PortScanner
+2.Run the script:
+  ```bash
+  python PortScanner.py
