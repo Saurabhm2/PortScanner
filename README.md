@@ -21,3 +21,7 @@ This is a simple and advanced port scanner written in Python. The scanner is des
 2.Run the script:
   ```bash
   python PortScanner.py
+
+Disclaimer
+This tool is intended for educational and authorized testing purposes only. Unauthorized scanning of networks or systems is against the law and can result in severe consequences. Use this tool responsibly and with explicit permission from the system owner.
+
